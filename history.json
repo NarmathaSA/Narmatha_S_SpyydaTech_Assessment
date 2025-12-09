@@ -1,0 +1,10 @@
+[
+  {
+    "expression": "20",
+    "result": 20
+  },
+  {
+    "expression": "20+20",
+    "result": 40
+  }
+]
